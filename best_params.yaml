@@ -1,0 +1,8 @@
+# Fill this in AFTER completing Part C, i.e. after you compare the
+# three full-dataset runs in the MLflow UI and pick the highest-accuracy run.
+# Copy that run's exact hyperparameter values below.
+
+best_run_name: "RF_Setting_2_Full_Data"   # <-- change to your actual best run name
+n_estimators: 100                          # <-- change to your actual best n_estimators
+max_depth: 5                               # <-- change to your actual best max_depth
+random_state: 42

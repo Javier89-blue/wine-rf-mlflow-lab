@@ -9,3 +9,4 @@ mlruns/
 data/
 models/
 mlflow.db
+/data
